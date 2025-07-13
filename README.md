@@ -66,7 +66,7 @@ By using VinSniper, you agree to:
 - Understand that we provide tools, not purchase guarantees
 - Acknowledge VinSniper is **not affiliated** with any marketplace
 
-📜 Full Terms: [https://vinsniper.com](https://vinsniper.com)
+📜 Full Terms: [terms-of-service](https://vinsniper.com/terms-of-service)
 
 ---
 
